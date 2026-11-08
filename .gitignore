@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Tests & coverage
+.pytest_cache/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
